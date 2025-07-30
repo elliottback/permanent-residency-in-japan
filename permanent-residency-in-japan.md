@@ -13,7 +13,7 @@ other people can have a smoother experience. Many colleagues have already used
 this guide successfully to convert their status from Engineer/Specialist in
 Humanities visa to PR.
 
-This document is written toward foreign immigrant working in Japan who wish to
+This document is written toward foreign immigrants working in Japan who wish to
 apply to PR through the point-based system for highly skilled professionals.
 People who wish to apply to PR through different means (spouse of a Japanese
 citizen…) may still find the information below useful.
