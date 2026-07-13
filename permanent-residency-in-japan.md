@@ -1,6 +1,6 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
 
-# ![PR][PR_Icon] Guide to permanent residency (PR) In Japan ![PR][PR_Icon]
+# ![PR][PR_Icon] Guide to permanent residency (PR / 永住権) In Japan ![PR][PR_Icon]
 
 [PR_Icon]: imgs/pr.png
 
@@ -28,6 +28,17 @@ residency.
 
 By using this guide, you agree that none of the authors shall be liable for any
 damage or loss you may encounter.
+
+## Recent Updates
+
+| When       | What                                                                    | Status |
+|------------|-------------------------------------------------------------------------|--------|
+| Future | Language proficiency requirements & lifestyle learning program completion | In Policy Discussion |
+| 2027-04-01 | Deliberate non-payment of social obligations → revocation of PR         | Confirmed |
+| 2026-10-01 | PR cost ↑ to ¥200,000                                                   | Confirmed |
+| 2026-04-01 | <5 Year Status of Residence not eligible to Apply (unless points route) | Confirmed |
+| 2026 | Social insurance payment deadlines now strictly scrutinized             | Rumourmill |
+| 2026 | Basic income requirements raised to at least ¥3.5mm / year | Rumourmill |
 
 ## Getting a lawyer[^lawyer]
 
@@ -63,7 +74,7 @@ Link: [https://www.moj.go.jp/isa/support/fresc/fresc_2.1.html](https://www.moj.g
 
 ## Longest period of stay
 
-Starting on April 1st, the Ministry of Justice has announced that they will
+Starting on April 1st, 2026, the Ministry of Justice has announced that they will
 interpret the requirement in the immigration control act to "hold the longest period of stay"
 upwards from the current practive of "at least 3-years" to "5-years".
 
@@ -779,6 +790,11 @@ before it expires and have its validity period extended. The expiration date is
 written on the front of your card and matches the expiry date of your previous
 residence card. By failing to do so, you would have to reapply for a new my
 number card (cost: ¥1,000).
+
+### Renewing your card
+
+After you get PR, there is no cost to renew your card at your local reigonal
+immigration bureau.
 
 ## Oversea travel and re-entry permits as a PR
 
