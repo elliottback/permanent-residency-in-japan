@@ -31,3 +31,7 @@ encounter something which became obsolete, the document will stay alive. So, if
 this document was anyhow helpful to you, please consider reporting any
 inaccuracies or contributing new paragraphs to document any discoveries you made
 and which could help other people!
+
+## Last Updated
+
+Last updated 2026-7-13.
