@@ -65,7 +65,7 @@ Link: [https://www.moj.go.jp/isa/support/fresc/fresc_2.1.html](https://www.moj.g
 
 Starting on April 1st, the Ministry of Justice has announced that they will
 interpret the requirement in the immigration control act to "hold the longest period of stay"
-upwards from the currently relaxed 3-years to 5-years.
+upwards from the current practive of "at least 3-years" to "5-years".
 
 This does not apply to do HSFP holders and qualifiers (because HSFP is automatically
 issued at the longest period of stay, 5-years).
@@ -240,11 +240,6 @@ Strictly speaking, there are just three legal requirements as listed here:
 
 [https://www.moj.go.jp/isa/publications/materials/nyukan_nyukan50.html](https://www.moj.go.jp/isa/publications/materials/nyukan_nyukan50.html)
 
-Especially, paid attention to the fact that: "*The applicant must be residing in
-Japan with the longest period of stay possible for their current status of
-residence*", meaning that people with a period of stay of one year can not
-apply.
-
 Practically speaking, those legal requirements unfold into a longer official
 checklist:
 
@@ -260,8 +255,8 @@ The details to apply through the point-based system are listed here:
 
 **Please refer to this procedure first. The sections below provide extra help on
 the potential pain points but will not detail all steps.** In particular, we
-will not paraphrase the contents of the checklist and we will not cover trivial
-things such as how to use a photomaton to take your ID photo.
+will not paraphrase the contents of the checklist, and we will not cover trivial
+things such as how to use a photobooth to take your ID photo.
 
 **Caution:** Immigration is now providing a [multi language page with automatic
 translation](https://www.moj.go.jp/isa/other_languages.html?hl=en). Make sure to
@@ -295,14 +290,17 @@ years if you have 70+ points.
 If you have the *my number* card with the IC chip, and depending on which
 prefecture or ward you are living in, you may be able to get these at the
 combini. Refer to [this site](https://www.lg-waps.go.jp/01-04.html) (Japanese)
-to check if this service is available for your location.
+to check if this service is available for your location.  If you no longer reside
+in the municipality for which you need that year's certificate, depending on
+agency interoperation, you may not be able to use the myna/conbini and will have to
+physically visit your old municipality office.
 
 ### From the ward office
 
 Alternatively, you can of course directly go to the ward office (区役所). When
 going to the ward office, check first if there is a local branch closer to your
 place. Local branches are usually named 市役所 or 出張所. The local branches,
-even if smaller, have way less visitors and are, by experience, overall quicker.
+even if smaller, have fewer visitors, and are, by experience, overall quicker.
 
 ### By postal mail to the ward office
 
