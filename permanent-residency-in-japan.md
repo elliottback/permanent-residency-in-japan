@@ -752,10 +752,13 @@ directing you to come to the immigration office **within three weeks** with:
 
 1. Your current resident card (在留カード)
 
-1. A national revenue stamps worth 8000 yen (収入印紙). This can be purchased at
+1. A national revenue stamp (収入印紙). This can be purchased at
    the first floor of the immigration office or at any post office
+   1. For applications submitted on or after October 1st, 2026 - ¥200,000
+   2. For applications submitted on or after April 1st, 2025 - ¥10,000
+   3. For applications submitted previously - ¥8,000
 
-1. The receipt you were issued when you submitted your application (申請受付票)
+2. The receipt you were issued when you submitted your application (申請受付票)
 
 1. The postcard you just received (この通知書)
 
@@ -775,9 +778,9 @@ If you have the IC chip my number card, you should also go to the ward office
 before it expires and have its validity period extended. The expiration date is
 written on the front of your card and matches the expiry date of your previous
 residence card. By failing to do so, you would have to reapply for a new my
-number card (cost: 500 JPY).
+number card (cost: ¥1,000).
 
-## Oversea travels and re-entry permits as a PR
+## Oversea travel and re-entry permits as a PR
 
 If you depart Japan, you still need to get a re-entry permit before leaving the
 country if you intend to come back, otherwise your PR will lapse at that
