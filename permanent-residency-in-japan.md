@@ -32,14 +32,14 @@ damage or loss you may encounter.
 
 ## Recent Updates
 
-| When       | What                                                                    | Status |
-|------------|-------------------------------------------------------------------------|--------|
-| Future | Language proficiency requirements & lifestyle learning program completion | In Policy Discussion |
-| 2027-04-01 | Deliberate non-payment of social obligations → revocation of PR         | Confirmed |
-| 2026-10-01 | PR cost ↑ to ¥200,000                                                   | Confirmed |
-| 2026-04-01 | <5 Year Status of Residence not eligible to Apply (unless points route) | Confirmed |
-| 2026 | Social insurance payment deadlines now strictly scrutinized             | Rumourmill |
-| 2026 | Basic income requirements raised to at least ¥3.5mm / year | Rumourmill |
+| When       | What                                                                      | Status               |
+|------------|---------------------------------------------------------------------------|----------------------|
+| Future     | Language proficiency requirements & lifestyle learning program completion | In Policy Discussion |
+| 2027-04-01 | Deliberate non-payment of social obligations → revocation of PR           | Confirmed            |
+| 2026-10-01 | PR cost ↑ to ¥200,000                                                     | Confirmed            |
+| 2026-04-01 | <5 Year Status of Residence not eligible to Apply (unless points route)   | Confirmed            |
+| 2026       | Social insurance payment deadlines now strictly scrutinized               | Rumourmill           |
+| 2026       | Basic income requirements raised to at least ¥3.5mm / year                | Rumourmill           |
 
 ## Getting a lawyer[^lawyer]
 
@@ -76,8 +76,8 @@ Link: [https://www.moj.go.jp/isa/support/fresc/fresc_2.1.html](https://www.moj.g
 ## Longest period of stay
 
 Starting on April 1st, 2026, the Ministry of Justice has announced that they will
-interpret the requirement in the immigration control act to "hold the longest period of stay"
-upwards from the current practice of "at least 3-years" to "5-years".
+interpret the requirement in the immigration control act to "hold the longest
+period of stay" upwards from the current practice of "at least 3-years" to "5-years".
 
 This does not apply to HSFP holders and qualifiers (because HSFP is automatically
 issued at the longest period of stay, 5-years).
@@ -241,8 +241,8 @@ should) get in advance:
 >
 > Additionally, if you are currently on an HSFP status, it may be possible to reuse
 > the calculation results of the previous application, so keep the
-> "Notification of the calculation results for highly skilled professional points (Form No. 27-2)"
-> if it has been issued to you.
+> "Notification of the calculation results for highly skilled professional points
+> (Form No. 27-2)" if it has been issued to you.
 
 * Make sure that you have a copy of your past payslips or work contracts to
   prove what your income was one or three years ago.
@@ -318,8 +318,8 @@ prefecture or ward you are living in, you may be able to get these at the
 combini. Refer to [this site](https://www.lg-waps.go.jp/01-04.html) (Japanese)
 to check if this service is available for your location.  If you no longer reside
 in the municipality for which you need that year's certificate, depending on
-agency interoperation, you may not be able to use the myna/conbini and will have to
-physically visit your old municipality office.
+agency interoperation, you may not be able to use the myna/conbini and will have
+to physically visit your old municipality office.
 
 ### From the ward office
 
