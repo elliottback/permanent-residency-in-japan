@@ -317,7 +317,7 @@ combini. Refer to [this site](https://www.lg-waps.go.jp/01-04.html) (Japanese)
 to check if this service is available for your location.  If you no longer reside
 in the municipality for which you need that year's certificate, depending on
 agency interoperation, you may not be able to use the myna/conbini and will have
-to physically visit your old municipality office.
+to send a postal mail to, or physically visit your old municipality office.
 
 ### From the ward office
 
