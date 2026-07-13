@@ -770,7 +770,7 @@ directing you to come to the immigration office **within three weeks** with:
    2. For applications submitted on or after April 1st, 2025 - ¥10,000
    3. For applications submitted previously - ¥8,000
 
-2. The receipt you were issued when you submitted your application (申請受付票)
+1. The receipt you were issued when you submitted your application (申請受付票)
 
 1. The postcard you just received (この通知書)
 
