@@ -76,9 +76,9 @@ Link: [https://www.moj.go.jp/isa/support/fresc/fresc_2.1.html](https://www.moj.g
 
 Starting on April 1st, 2026, the Ministry of Justice has announced that they will
 interpret the requirement in the immigration control act to "hold the longest period of stay"
-upwards from the current practive of "at least 3-years" to "5-years".
+upwards from the current practice of "at least 3-years" to "5-years".
 
-This does not apply to do HSFP holders and qualifiers (because HSFP is automatically
+This does not apply to HSFP holders and qualifiers (because HSFP is automatically
 issued at the longest period of stay, 5-years).
 
 Link: [https://www.moj.go.jp/isa/applications/resources/nyukan_nyukan50.html]
