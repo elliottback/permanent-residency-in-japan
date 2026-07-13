@@ -140,6 +140,11 @@ To get PR through marriage, you must be:
 * Married to a Japanese national or permanent resident for 3 years
 * Have continuously resided in Japan for at least 1 year
 
+You must satisfy the [Longest period of stay](#longest-period-of-stay) requirement.
+
+The documentation required substitutes the point-related documents for your marriage
+certificate, with no need to write a letter of reason.
+
 Link: [https://www.moj.go.jp/isa/applications/resources/nyukan_nyukan50.html]
 
 ## Pros and Cons of PR
