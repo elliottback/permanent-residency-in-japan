@@ -38,8 +38,6 @@ damage or loss you may encounter.
 | 2027-04-01 | Deliberate non-payment of social obligations → revocation of PR           | Confirmed            |
 | 2026-10-01 | PR cost ↑ to ¥200,000                                                     | Confirmed            |
 | 2026-04-01 | <5 Year Status of Residence not eligible to Apply (unless points route)   | Confirmed            |
-| 2026       | Social insurance payment deadlines now strictly scrutinized               | Rumourmill           |
-| 2026       | Basic income requirements raised to at least ¥3.5mm / year                | Rumourmill           |
 
 ## Getting a lawyer[^lawyer]
 
